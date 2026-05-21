@@ -25,7 +25,6 @@ The system converts raw biometric attendance Excel sheets into complete salary r
 ✅ FastAPI REST APIs
 ✅ React + Tailwind Frontend
 ✅ Modular Full-Stack Architecture
-
 ---
 
 # 📂 Project Folder Structure
