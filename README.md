@@ -173,16 +173,16 @@ Interactive dashboard provides:
 
 When attendance data is uploaded:
 
-1️⃣ Excel Sheet Upload
-2️⃣ Attendance Parsing
-3️⃣ Employee Validation
-4️⃣ Present/Leave Detection
-5️⃣ Holiday Calculation
-6️⃣ Salary Processing
-7️⃣ Database Storage
-8️⃣ Report Generation
-9️⃣ Dashboard Visualization
-🔟 Export & Reporting
+* 1️⃣ Excel Sheet Upload
+* 2️⃣ Attendance Parsing
+* 3️⃣ Employee Validation
+* 4️⃣ Present/Leave Detection
+* 5️⃣ Holiday Calculation
+* 6️⃣ Salary Processing
+* 7️⃣ Database Storage
+* 8️⃣ Report Generation
+* 9️⃣ Dashboard Visualization
+* 🔟 Export & Reporting
 
 ---
 
@@ -461,8 +461,8 @@ Salary deduction applied automatically.
 ## 👨‍💻 Project Developer
 
 Kamakshi Kamalika — 
-Jagadeesh -
 Hrithvika -
+Jagadeesh -
 Varshith -
 
 ---
