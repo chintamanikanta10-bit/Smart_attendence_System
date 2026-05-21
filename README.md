@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Smart Employee Attendance & Salary Processing System
 
 ## Overview
@@ -46,3 +47,7 @@ npm run dev
 - **Rule 2/3 (Holidays)**: Checked using calendar weekday indexing and SQLite stored dates. 
 - **Rule 5/6 (Leaves/CL)**: Uses a rolling LeaveBalance table updating available, used, and carry_forward entries dynamically per processing action.
 - **Rule 7 (LOP & Salary Calculation)**: Working days calculated automatically. Formula `(Total Days - Holidays - Sundays)`. Per day salary mapped, and mapped against `LOP = Leaves - Available CL`.
+=======
+# Smart_attendence_System
+A modern web-based Smart Attendance &amp; Salary Management System designed to simplify employee attendance tracking, salary processing, holiday management, and report generation through an intuitive dashboard interface.
+>>>>>>> 96e7734e8eb732f6407e2cecb60c6612e3cb37ae
