@@ -10,21 +10,22 @@ The system converts raw biometric attendance Excel sheets into complete salary r
 
 # 📌 Features at a Glance
 
-✅ Employee Attendance Management
-✅ Automated Salary Processing
-✅ Excel Attendance Upload & Parsing
-✅ Leave & CL (Casual Leave) Management
-✅ Holiday & Sunday Detection
-✅ LOP (Loss of Pay) Calculation
-✅ Employee Dashboard & Analytics
-✅ Salary Report Generation
-✅ CSV Export Functionality
-✅ Email Integration Ready
-✅ SQLite Database Support
-✅ Responsive Modern UI
-✅ FastAPI REST APIs
-✅ React + Tailwind Frontend
-✅ Modular Full-Stack Architecture
+* ✅ Employee Attendance Management
+* ✅ Automated Salary Processing
+* ✅ Excel Attendance Upload & Parsing
+* ✅ Leave & CL (Casual Leave) Management
+* ✅ Holiday & Sunday Detection
+* ✅ LOP (Loss of Pay) Calculation
+* ✅ Employee Dashboard & Analytics
+* ✅ Salary Report Generation
+* ✅ CSV Export Functionality
+* ✅ Email Integration Ready
+* ✅ SQLite Database Support
+* ✅ Responsive Modern UI
+* ✅ FastAPI REST APIs
+* ✅ React + Tailwind Frontend
+* ✅ Modular Full-Stack Architecture
+
 ---
 
 # 📂 Project Folder Structure
@@ -460,9 +461,9 @@ Salary deduction applied automatically.
 ## 👨‍💻 Project Developer
 
 Kamakshi Kamalika — 
-Jagadeesh-
-Hrithvika-
-Varshith-
+Jagadeesh -
+Hrithvika -
+Varshith -
 
 ---
 
